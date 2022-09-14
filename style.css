@@ -1,0 +1,96 @@
+body {
+    background-color: #E80F88;
+}
+nav { 
+    background-color: #790252;
+    border: 0px;
+    padding: 5px;
+    text-align: left;
+}
+
+a {
+    border: 5px;
+    padding: 12px;
+    text-align: left;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: #ffff;
+}
+
+a:hover {
+    background-color: #E80F88;
+}
+
+h5 {
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: black;
+}
+
+h3 {
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: black;
+    margin-top: 5%;
+}
+
+.pic { /*Home ni sya na picture*/
+    padding-top: 5%;
+    padding-left: 30%;
+}
+ 
+/*NAV About ni na picture*/
+.Kikibabz { 
+    border-radius: 50%;
+    padding-top: 5%;
+    padding-left: 40%;
+    width: 300px;
+    height: 300px
+    
+}
+
+.aboutMe {
+    font-size: 25px;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: black;
+}
+
+table, tr, td {
+    border: 1px solid black; 
+    border-collapse: collapse;
+    padding: 20px;
+}
+
+.tablePhotos {
+    margin-top: 5%;
+    margin-left: 35%;
+}
+
+.tableResources {
+    margin-left: 35%;
+}
+
+.tr1 {
+    background-color: white;
+}
+
+.tr2 {
+    background-color: white;
+}
+
+.tr3 {
+    background-color: white;
+}
+.tr4 {
+    background-color: white;
+}
+
+
+
+
+
+
+
